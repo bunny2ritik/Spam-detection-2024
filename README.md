@@ -27,11 +27,7 @@ cd <repository_directory>
 
 2. Ensure you have a CSV file containing email data. By default, the code assumes the file is named `spam.csv` and contains columns named `Message` and `Category` (spam or ham).
 
-3. Run the Python script:
-
-```bash
-python spam_detection.py
-```
+3. Run the Jupyter Notebook script:
 
 The script will perform the following steps:
 
