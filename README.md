@@ -1,4 +1,4 @@
-# Spam Detection using Logistic Regression
+# Realtime Spam Detection using Logistic Regression
 
 This repository not only houses Python code for detecting spam emails using Logistic Regression but also incorporates real-time email collection functionality. Upon receiving an email from a specified email address, the system promptly collects the body of the message. This allows for dynamic and up-to-date training of the model. The model itself is trained on a comprehensive dataset comprising email messages that have been meticulously labeled as either spam or ham (non-spam). By continuously gathering new email data in real-time, the system ensures that the model remains robust and adept at discerning between legitimate and unsolicited messages, thus enhancing its effectiveness in combatting spam.
 
